@@ -69,7 +69,7 @@ To receive draft ticket price, following data must be provided:
 
 
     * **MissingDataException** is used when data is missing from the request.<br> <br>
-    * **Builder Design Pattern** is used for all models to ensure readable construction of the objects.<br> <br>
+    * **Builder Design Pattern** is used for all models to ensure readable construction of the objects (provided by Lombok library).<br> <br>
 
 * Dependencies: Lombok is used to reduce boilerplate code.<br> <br>
 * Testing: All service classes (mappers, controller and business service class (excluding mocked services)) have unit

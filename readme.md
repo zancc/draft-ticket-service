@@ -47,7 +47,7 @@ To receive draft ticket price, following data must be provided:
           }
         ]
       ```
-      **Example of DraftTicketRequest**:
+      **Example of DraftTicketResponse**:
         ```json
         {
             "ticketPrices": [
